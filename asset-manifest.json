@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/costcompass/static/css/main.9bde7d0e.css",
+    "main.js": "/costcompass/static/js/main.2b8ef9f6.js",
+    "index.html": "/costcompass/index.html",
+    "main.9bde7d0e.css.map": "/costcompass/static/css/main.9bde7d0e.css.map",
+    "main.2b8ef9f6.js.map": "/costcompass/static/js/main.2b8ef9f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bde7d0e.css",
+    "static/js/main.2b8ef9f6.js"
+  ]
+}
